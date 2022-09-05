@@ -1,0 +1,5 @@
+://github.com/COBBY28/alx-system_engineering-devops.git
+   c34fb02..c65074e  master -> master
+root@72f3734ddf32:/alx-system_engineering-devops/0x02-shell_redirections#
+#!/bin/bash
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
